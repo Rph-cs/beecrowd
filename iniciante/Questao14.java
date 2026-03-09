@@ -1,0 +1,19 @@
+package iniciante;
+
+import java.util.Scanner;
+
+public class Questao14 {
+
+    public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in);
+
+        int X = scanner.nextInt();
+        double Y = scanner.nextDouble();
+
+        double media = X / Y;
+
+        System.out.printf("%.3f km/l\n", media);
+
+    }
+}
