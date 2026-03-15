@@ -2,7 +2,7 @@ package iniciante;
 
 import java.util.Scanner;
 
-public class Questao08 {
+public class Questao1008 {
     
     public static void main(String[] args) {
         
