@@ -16,7 +16,7 @@ public class Questao1164 {
             
             int total = 0;
             
-            for (int j = 1; j < valor; j++) {
+            for (int j = 1; j < valor; j++) {  
 
                 if (valor % j == 0) {
                     total += j;
